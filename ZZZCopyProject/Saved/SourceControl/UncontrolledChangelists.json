@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/prays/Documents/Unreal Projects/ZZZ_CopyProject/ZZZCopyProject/Content/Maps/IntialLevel.umap",
+				"C:/Users/prays/Documents/Unreal Projects/ZZZ_CopyProject/ZZZCopyProject/Content/FinalModifiedAnbi/Skeletal/Anbi_Weapon_D.uasset",
+				"C:/Users/prays/Documents/Unreal Projects/ZZZ_CopyProject/ZZZCopyProject/Content/FinalModifiedAnbi/Skeletal/MAT_Anbi_Weapon_Fire.uasset",
+				"C:/Users/prays/Documents/Unreal Projects/ZZZ_CopyProject/ZZZCopyProject/Content/FinalModifiedAnbi/Skeletal/Sword.uasset",
+				"C:/Users/prays/Documents/Unreal Projects/ZZZ_CopyProject/ZZZCopyProject/Content/FinalModifiedAnbi/Material/MAT_Anbi_Weapon_Fire.uasset",
+				"C:/Users/prays/Documents/Unreal Projects/ZZZ_CopyProject/ZZZCopyProject/Content/FinalModifiedAnbi/Texture/Anbi_Weapon_D.uasset",
+				"C:/Users/prays/Documents/Unreal Projects/ZZZ_CopyProject/ZZZCopyProject/Content/FinalModifiedAnbi/Skeletal/Sheath.uasset",
+				"C:/Users/prays/Documents/Unreal Projects/ZZZ_CopyProject/ZZZCopyProject/Content/FinalModifiedAnbi/Skeletal/FinalModifiedAnbi_Skeleton.uasset",
+				"C:/Users/prays/Documents/Unreal Projects/ZZZ_CopyProject/ZZZCopyProject/Content/FinalModifiedAnbi/Blueprint/BP_Anbi.uasset",
 				"C:/Users/user/Documents/GitHub/ZZZ_CopyProject/ZZZCopyProject/Content/Maps/IntialLevel.umap",
 				"C:/Users/user/Documents/GitHub/ZZZ_CopyProject/ZZZCopyProject/Content/Blueprints/ANS_Dodging.uasset",
 				"C:/Users/user/Documents/GitHub/ZZZ_CopyProject/ZZZCopyProject/Content/Monster/ANS_PlayerWarning.uasset",
@@ -103,7 +112,6 @@
 				"C:/Users/prays/Documents/Unreal Projects/ZZZ_CopyProject/ZZZCopyProject/Content/ZenlessZoneZeroContent/Anby/Animation/Run_To_Stop__Anim.uasset",
 				"C:/Users/prays/Documents/Unreal Projects/ZZZ_CopyProject/ZZZCopyProject/Content/ZenlessZoneZeroContent/Anby/Animation/Offensive_Idle_Anim.uasset",
 				"C:/Users/prays/Documents/Unreal Projects/ZZZ_CopyProject/ZZZCopyProject/Content/ZenlessZoneZeroContent/Anby/Anbi_Skeleton.uasset",
-				"C:/Users/prays/Documents/Unreal Projects/ZZZ_CopyProject/ZZZCopyProject/Content/Maps/IntialLevel.umap",
 				"C:/Projects/ZZZCopyProject/Content/Maps/IntialLevel.umap"
 			]
 		}
