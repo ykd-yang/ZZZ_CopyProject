@@ -12894,3 +12894,190 @@ Script Stack (0 frames) :
 [2025.07.25-06.46.57:153][ 21]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4846.594727
 [2025.07.25-06.46.58:152][ 24]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.07.25-06.46.58:152][ 24]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4847.260254, Update Interval: 333.805969
+[2025.07.25-06.53.12:205][146]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5221.648438
+[2025.07.25-06.53.13:205][150]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.25-06.53.13:205][150]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5222.316895, Update Interval: 316.871857
+[2025.07.25-06.56.47:096][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.07.25-06.56.47:100][790]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/IntialLevel' took 0.044
+[2025.07.25-06.56.47:100][790]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/FinalModifiedAnbi/Blueprint/Ans_AgentHitScan] ([2] browsable assets)...
+[2025.07.25-06.56.47:101][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/FinalModifiedAnbi/Blueprint/Ans_AgentHitScan]
+[2025.07.25-06.56.47:113][790]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Character/FinalModifiedAnbi/Blueprint/Ans_AgentHitScan_Auto2
+[2025.07.25-06.56.47:113][790]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/ZZZ_CopyProject/ZZZCopyProject/Saved/Ans_AgentHitScan_Auto2F3B4187A40094884082A788C36E067E6.tmp' to '../../../../../../Users/user/Documents/GitHub/ZZZ_CopyProject/ZZZCopyProject/Saved/Autosaves/Game/Character/FinalModifiedAnbi/Blueprint/Ans_AgentHitScan_Auto2.uasset'
+[2025.07.25-06.56.47:125][790]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Boss/AC_DeadState] ([2] browsable assets)...
+[2025.07.25-06.56.47:125][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Boss/AC_DeadState]
+[2025.07.25-06.56.47:128][790]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Boss/AC_DeadState_Auto2
+[2025.07.25-06.56.47:128][790]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/ZZZ_CopyProject/ZZZCopyProject/Saved/AC_DeadState_Auto26B0970E348F1DE52E13372AF16A6E7D9.tmp' to '../../../../../../Users/user/Documents/GitHub/ZZZ_CopyProject/ZZZCopyProject/Saved/Autosaves/Game/Blueprints/Boss/AC_DeadState_Auto2.uasset'
+[2025.07.25-06.56.47:129][790]LogFileHelpers: Auto-saving content packages took 0.029
+[2025.07.25-06.59.08:923][216]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5578.372070
+[2025.07.25-06.59.09:923][219]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.25-06.59.09:923][219]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5579.039062, Update Interval: 355.142059
+[2025.07.25-06.59.48:773][377]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.25-06.59.48:782][377]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.25-06.59.48:810][377]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IntialLevel
+[2025.07.25-06.59.48:814][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003725s)
+[2025.07.25-06.59.48:814][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IntialLevel.IntialLevel to /Game/Maps/UEDPIE_0_IntialLevel.IntialLevel (0.003781s)
+[2025.07.25-06.59.48:847][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.07.25-06.59.48:851][377]LogChaosDD: Creating Chaos Debug Draw Scene for world IntialLevel
+[2025.07.25-06.59.48:853][377]LogPlayLevel: PIE: World Init took: (0.001930s)
+[2025.07.25-06.59.48:854][377]LogAudio: Display: Creating Audio Device:                 Id: 73, Scope: Unique, Realtime: True
+[2025.07.25-06.59.48:854][377]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.25-06.59.48:854][377]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.25-06.59.48:854][377]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.25-06.59.48:854][377]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.25-06.59.48:854][377]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.25-06.59.48:854][377]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.25-06.59.48:854][377]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.25-06.59.48:854][377]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.25-06.59.48:854][377]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.25-06.59.48:854][377]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.25-06.59.48:854][377]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.25-06.59.48:857][377]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.25-06.59.48:932][377]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.07.25-06.59.48:932][377]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.25-06.59.48:932][377]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.25-06.59.48:932][377]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.25-06.59.48:933][377]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=73
+[2025.07.25-06.59.48:933][377]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=73
+[2025.07.25-06.59.48:936][377]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=73
+[2025.07.25-06.59.48:936][377]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=73
+[2025.07.25-06.59.48:936][377]LogInit: FAudioDevice initialized with ID 73.
+[2025.07.25-06.59.48:936][377]LogAudio: Display: Audio Device (ID: 73) registered with world 'IntialLevel'.
+[2025.07.25-06.59.48:936][377]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 73
+[2025.07.25-06.59.48:942][377]LogLoad: Game class is 'BP_ZZZ_GameMode_C'
+[2025.07.25-06.59.48:944][377]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IntialLevel.IntialLevel up for play (max tick rate 60) at 2025.07.25-15.59.48
+[2025.07.25-06.59.48:945][377]LogWorld: Bringing up level for play took: 0.002177
+[2025.07.25-06.59.48:947][377]LogOnline: OSS: Created online subsystem instance for: :Context_234
+[2025.07.25-06.59.48:950][377]LogBlueprintUserMessages: [AC_IdleState] 아이들 상태 진입
+[2025.07.25-06.59.48:950][377]PIE: Server logged in
+[2025.07.25-06.59.48:953][377]PIE: Play in editor total start time 0.172 seconds.
+[2025.07.25-06.59.48:955][377]LogBlueprintUserMessages: [AC_IdleState] 아이들 상태 나감
+[2025.07.25-06.59.49:094][379]LogBlueprintUserMessages: [AC_IdleState] 아이들 상태 나감
+[2025.07.25-06.59.49:112][380]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Monster/ANS_BossHitScan.ANS_BossHitScan_C:Received_NotifyTick'!
+[2025.07.25-06.59.49:112][380]LogScript: Warning: Script Msg called by: ANS_BossHitScan_C /Game/Enemy/ModifiedDurahan/Animation/AM_Dash.AM_Dash:ANS_BossHitScan_C_0
+[2025.07.25-06.59.49:128][381]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Monster/ANS_BossHitScan.ANS_BossHitScan_C:Received_NotifyTick'!
+[2025.07.25-06.59.49:128][381]LogScript: Warning: Script Msg called by: ANS_BossHitScan_C /Game/Enemy/ModifiedDurahan/Animation/AM_Dash.AM_Dash:ANS_BossHitScan_C_0
+[2025.07.25-06.59.49:145][382]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Monster/ANS_BossHitScan.ANS_BossHitScan_C:Received_NotifyTick'!
+[2025.07.25-06.59.49:145][382]LogScript: Warning: Script Msg called by: ANS_BossHitScan_C /Game/Enemy/ModifiedDurahan/Animation/AM_Dash.AM_Dash:ANS_BossHitScan_C_0
+[2025.07.25-06.59.49:161][383]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Monster/ANS_BossHitScan.ANS_BossHitScan_C:Received_NotifyTick'!
+[2025.07.25-06.59.49:161][383]LogScript: Warning: Script Msg called by: ANS_BossHitScan_C /Game/Enemy/ModifiedDurahan/Animation/AM_Dash.AM_Dash:ANS_BossHitScan_C_0
+[2025.07.25-06.59.49:179][384]LogBlueprintUserMessages: [None] BP_Anbi0
+[2025.07.25-06.59.49:179][384]LogBlueprintUserMessages: [BP_Anbi_C_0] 인터페이스에의한 애니메이션 재생
+[2025.07.25-06.59.49:353][394]LogBlueprintUserMessages: [BP_Boss_C_4] AgentDamaged
+[2025.07.25-06.59.49:607][406]LogBlueprintUserMessages: [BP_Anbi_C_0] Running Timer Start
+[2025.07.25-06.59.49:733][412]LogBlueprintUserMessages: [None] 데미지 호출 직전
+[2025.07.25-06.59.50:203][433]LogBlueprintUserMessages: [BP_Anbi_C_0] AgentDamaged
+[2025.07.25-06.59.50:460][445]LogBlueprintUserMessages: [BP_Anbi_C_0] Running Timer Start
+[2025.07.25-06.59.50:524][448]LogBlueprintUserMessages: [None] 데미지 호출 직전
+[2025.07.25-06.59.50:898][464]LogBlueprintUserMessages: [BP_Anbi_C_0] AgentDamaged
+[2025.07.25-06.59.51:220][477]LogBlueprintUserMessages: [BP_Anbi_C_0] Running Timer Start
+[2025.07.25-06.59.51:243][478]LogBlueprintUserMessages: [None] 데미지 호출 직전
+[2025.07.25-06.59.51:800][505]LogBlueprintUserMessages: [BP_Anbi_C_0] Running Timer Start
+[2025.07.25-06.59.52:352][534]LogBlueprintUserMessages: [BP_Anbi_C_0] Expired!
+[2025.07.25-06.59.53:101][575]LogBlueprintUserMessages: [BP_Anbi_C_0] Running Timer Start
+[2025.07.25-06.59.53:221][582]LogBlueprintUserMessages: [None] 데미지 호출 직전
+[2025.07.25-06.59.53:925][622]LogBlueprintUserMessages: [BP_Anbi_C_0] Expired!
+[2025.07.25-06.59.54:571][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.25-06.59.54:571][657]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IntialLevel
+[2025.07.25-06.59.54:571][657]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.25-06.59.54:571][657]LogWorld: UWorld::CleanupWorld for IntialLevel, bSessionEnded=true, bCleanupResources=true
+[2025.07.25-06.59.54:572][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.25-06.59.54:574][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.25-06.59.54:579][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.25-06.59.54:618][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.25-06.59.54:618][657]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 73
+[2025.07.25-06.59.54:618][657]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73, StreamState=4
+[2025.07.25-06.59.54:622][657]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73, StreamState=2
+[2025.07.25-06.59.54:630][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.07.25-06.59.54:799][658]LogPlayLevel: Display: Destroying online subsystem :Context_234
+[2025.07.25-06.59.55:783][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.07.25-06.59.57:436][705]LogSlate: Window 'Save Content' being destroyed
+[2025.07.25-06.59.57:454][705]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.25-06.59.57:539][705]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Boss/AC_DeadState] ([2] browsable assets)...
+[2025.07.25-06.59.57:539][705]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Boss/AC_DeadState]
+[2025.07.25-06.59.57:544][705]LogSavePackage: Moving output files for package: /Game/Blueprints/Boss/AC_DeadState
+[2025.07.25-06.59.57:554][705]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/ZZZ_CopyProject/ZZZCopyProject/Saved/AC_DeadState1D4FFB494F34E506CB2358B0A282DF75.tmp' to '../../../../../../Users/user/Documents/GitHub/ZZZ_CopyProject/ZZZCopyProject/Content/Blueprints/Boss/AC_DeadState.uasset'
+[2025.07.25-06.59.57:556][705]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/FinalModifiedAnbi/Blueprint/Ans_AgentHitScan] ([2] browsable assets)...
+[2025.07.25-06.59.57:556][705]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/FinalModifiedAnbi/Blueprint/Ans_AgentHitScan]
+[2025.07.25-06.59.57:567][705]LogSavePackage: Moving output files for package: /Game/Character/FinalModifiedAnbi/Blueprint/Ans_AgentHitScan
+[2025.07.25-06.59.57:568][705]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/ZZZ_CopyProject/ZZZCopyProject/Saved/Ans_AgentHitScan322656844D98EA205A01E9AD64505F75.tmp' to '../../../../../../Users/user/Documents/GitHub/ZZZ_CopyProject/ZZZCopyProject/Content/Character/FinalModifiedAnbi/Blueprint/Ans_AgentHitScan.uasset'
+[2025.07.25-06.59.57:580][705]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.966 ms (total: 26.1 sec)
+[2025.07.25-06.59.57:671][705]LogContentValidation: Display: Starting to validate 2 assets
+[2025.07.25-06.59.57:671][705]LogContentValidation: Enabled validators:
+[2025.07.25-06.59.57:671][705]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.25-06.59.57:671][705]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.25-06.59.57:671][705]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.25-06.59.57:671][705]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.25-06.59.57:671][705]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.25-06.59.57:671][705]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.25-06.59.57:671][705]AssetCheck: /Game/Blueprints/Boss/AC_DeadState Validating asset
+[2025.07.25-06.59.57:671][705]AssetCheck: /Game/Character/FinalModifiedAnbi/Blueprint/Ans_AgentHitScan Validating asset
+[2025.07.25-06.59.59:411][786]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.25-06.59.59:421][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.25-06.59.59:421][786]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IntialLevel
+[2025.07.25-06.59.59:425][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003952s)
+[2025.07.25-06.59.59:425][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IntialLevel.IntialLevel to /Game/Maps/UEDPIE_0_IntialLevel.IntialLevel (0.003997s)
+[2025.07.25-06.59.59:459][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.07.25-06.59.59:464][786]LogChaosDD: Creating Chaos Debug Draw Scene for world IntialLevel
+[2025.07.25-06.59.59:466][786]LogPlayLevel: PIE: World Init took: (0.002092s)
+[2025.07.25-06.59.59:467][786]LogAudio: Display: Creating Audio Device:                 Id: 74, Scope: Unique, Realtime: True
+[2025.07.25-06.59.59:467][786]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.25-06.59.59:467][786]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.25-06.59.59:467][786]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.25-06.59.59:467][786]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.25-06.59.59:467][786]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.25-06.59.59:467][786]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.25-06.59.59:467][786]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.25-06.59.59:467][786]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.25-06.59.59:467][786]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.25-06.59.59:467][786]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.25-06.59.59:467][786]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.25-06.59.59:469][786]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.25-06.59.59:593][786]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.07.25-06.59.59:593][786]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.25-06.59.59:593][786]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.25-06.59.59:593][786]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.25-06.59.59:594][786]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=74
+[2025.07.25-06.59.59:594][786]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=74
+[2025.07.25-06.59.59:597][786]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=74
+[2025.07.25-06.59.59:597][786]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=74
+[2025.07.25-06.59.59:597][786]LogInit: FAudioDevice initialized with ID 74.
+[2025.07.25-06.59.59:597][786]LogAudio: Display: Audio Device (ID: 74) registered with world 'IntialLevel'.
+[2025.07.25-06.59.59:597][786]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 74
+[2025.07.25-06.59.59:602][786]LogLoad: Game class is 'BP_ZZZ_GameMode_C'
+[2025.07.25-06.59.59:604][786]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IntialLevel.IntialLevel up for play (max tick rate 60) at 2025.07.25-15.59.59
+[2025.07.25-06.59.59:605][786]LogWorld: Bringing up level for play took: 0.002568
+[2025.07.25-06.59.59:609][786]LogOnline: OSS: Created online subsystem instance for: :Context_235
+[2025.07.25-06.59.59:612][786]LogBlueprintUserMessages: [AC_IdleState] 아이들 상태 진입
+[2025.07.25-06.59.59:613][786]PIE: Server logged in
+[2025.07.25-06.59.59:616][786]PIE: Play in editor total start time 0.196 seconds.
+[2025.07.25-06.59.59:618][786]LogBlueprintUserMessages: [AC_IdleState] 아이들 상태 나감
+[2025.07.25-06.59.59:722][788]LogBlueprintUserMessages: [AC_IdleState] 아이들 상태 나감
+[2025.07.25-06.59.59:755][789]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Monster/ANS_BossHitScan.ANS_BossHitScan_C:Received_NotifyTick'!
+[2025.07.25-06.59.59:755][789]LogScript: Warning: Script Msg called by: ANS_BossHitScan_C /Game/Enemy/ModifiedDurahan/Animation/AM_Dash.AM_Dash:ANS_BossHitScan_C_0
+[2025.07.25-06.59.59:771][790]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Monster/ANS_BossHitScan.ANS_BossHitScan_C:Received_NotifyTick'!
+[2025.07.25-06.59.59:771][790]LogScript: Warning: Script Msg called by: ANS_BossHitScan_C /Game/Enemy/ModifiedDurahan/Animation/AM_Dash.AM_Dash:ANS_BossHitScan_C_0
+[2025.07.25-06.59.59:787][791]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Monster/ANS_BossHitScan.ANS_BossHitScan_C:Received_NotifyTick'!
+[2025.07.25-06.59.59:787][791]LogScript: Warning: Script Msg called by: ANS_BossHitScan_C /Game/Enemy/ModifiedDurahan/Animation/AM_Dash.AM_Dash:ANS_BossHitScan_C_0
+[2025.07.25-06.59.59:804][792]LogBlueprintUserMessages: [None] BP_Anbi0
+[2025.07.25-06.59.59:805][792]LogBlueprintUserMessages: [BP_Anbi_C_0] 인터페이스에의한 애니메이션 재생
+[2025.07.25-06.59.59:972][802]LogBlueprintUserMessages: [BP_Boss_C_4] AgentDamaged
+[2025.07.25-06.59.59:994][803]LogBlueprintUserMessages: [BP_Anbi_C_0] Running Timer Start
+[2025.07.25-07.00.00:119][810]LogBlueprintUserMessages: [None] 데미지 호출 직전
+[2025.07.25-07.00.00:576][835]LogBlueprintUserMessages: [BP_Anbi_C_0] Running Timer Start
+[2025.07.25-07.00.00:850][850]LogBlueprintUserMessages: [BP_Anbi_C_0] Running Timer Start
+[2025.07.25-07.00.00:906][853]LogBlueprintUserMessages: [None] 데미지 호출 직전
+[2025.07.25-07.00.01:506][886]LogBlueprintUserMessages: [BP_Anbi_C_0] Expired!
+[2025.07.25-07.00.04:591][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.25-07.00.04:591][ 65]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IntialLevel
+[2025.07.25-07.00.04:591][ 65]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.25-07.00.04:591][ 65]LogWorld: UWorld::CleanupWorld for IntialLevel, bSessionEnded=true, bCleanupResources=true
+[2025.07.25-07.00.04:592][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.25-07.00.04:595][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.25-07.00.04:600][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.25-07.00.04:643][ 65]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.25-07.00.04:643][ 65]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 74
+[2025.07.25-07.00.04:643][ 65]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=74, StreamState=4
+[2025.07.25-07.00.04:646][ 65]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=74, StreamState=2
+[2025.07.25-07.00.04:670][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.25-07.00.04:674][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.07.25-07.00.04:854][ 66]LogPlayLevel: Display: Destroying online subsystem :Context_235
