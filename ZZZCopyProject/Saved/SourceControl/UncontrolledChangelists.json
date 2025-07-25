@@ -32,6 +32,8 @@
 				"C:/Users/user/Documents/GitHub/ZZZ_CopyProject/ZZZCopyProject/Content/Enemy/ModifiedClaymore/Animation/Sequence/Idle.uasset",
 				"C:/Users/user/Documents/GitHub/ZZZ_CopyProject/ZZZCopyProject/Content/Enemy/ModifiedClaymore/Animation/Sequence/RunForward.uasset",
 				"C:/Users/user/Documents/GitHub/ZZZ_CopyProject/ZZZCopyProject/Content/Enemy/ModifiedClaymore/Animation/Montage/AM_EnemyAttack.uasset",
+				"C:/Users/user/Documents/GitHub/ZZZ_CopyProject/ZZZCopyProject/Content/Enemy/ModifiedClaymore/Animation/Sequence/Attack.uasset",
+				"C:/Users/user/Documents/GitHub/ZZZ_CopyProject/ZZZCopyProject/Content/Enemy/ModifiedClaymore/Animation/Sequence/AttackMirror.uasset",
 				"C:/Users/user/Documents/GitHub/ZZZ_CopyProject/ZZZCopyProject/Content/Blueprints/Enemy/State/BPI_IEnemyState.uasset",
 				"C:/Users/user/Documents/GitHub/ZZZ_CopyProject/ZZZCopyProject/Content/Blueprints/Enemy/State/BPI_IEnemyStateMachine.uasset",
 				"C:/Users/user/Documents/Unreal Projects/ZZZ_CopyProject/ZZZCopyProject/Content/Monster/BP_Monster.uasset",
