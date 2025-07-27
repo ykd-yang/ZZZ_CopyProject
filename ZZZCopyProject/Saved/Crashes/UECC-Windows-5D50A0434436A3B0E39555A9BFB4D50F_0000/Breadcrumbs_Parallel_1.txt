@@ -1,0 +1,7 @@
+Breadcrumbs 'Parallel'
+ - TemporalSuperResolution(sg.AntiAliasingQuality=3) 1432x857 -> 2192x1312
+ - PostProcessing
+ - Scene
+ - RenderGraphExecute - /ViewFamilies
+ - SceneRender - ViewFamilies
+ - Frame 6611
