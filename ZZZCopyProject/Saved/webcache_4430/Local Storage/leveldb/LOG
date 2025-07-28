@@ -1,3 +1,2 @@
-2025/07/27-16:49:29.618 5ef4 Reusing MANIFEST C:/Users/prays/Documents/Unreal Projects/ZZZ_CopyProject/ZZZCopyProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2025/07/27-16:49:29.620 5ef4 Recovering log #3
-2025/07/27-16:49:29.623 5ef4 Reusing old log C:/Users/prays/Documents/Unreal Projects/ZZZ_CopyProject/ZZZCopyProject/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2025/07/28-12:28:41.260 3108 Creating DB C:/Users/user/Documents/Unreal Projects/ZZZ_CopyProject/ZZZCopyProject/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2025/07/28-12:28:41.268 3108 Reusing MANIFEST C:/Users/user/Documents/Unreal Projects/ZZZ_CopyProject/ZZZCopyProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
