@@ -13229,3 +13229,243 @@ FPackageName: Skipped package /Game/EnergyBeam/Demo/Mannequin/Character/Material
 [2025.07.29-00.18.35:809][165]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
 [2025.07.29-00.18.35:828][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
 [2025.07.29-00.18.35:962][166]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2025.07.29-00.19.19:628][316]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3168.809814
+[2025.07.29-00.19.20:629][319]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-00.19.20:629][319]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3169.476562, Update Interval: 329.411285
+[2025.07.29-00.21.38:926][324]LogStreaming: Display: FlushAsyncLoading(1301): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.29-00.21.38:947][324]LogStaticMesh: Display: Building static mesh SM_Shape_Cube (Required Memory Estimate: 0.083673 MB)...
+[2025.07.29-00.21.38:948][324]LogStaticMesh: Built static mesh [0.00s] /Game/SlashHitVFX/__GenericSource/FBX/SM_Shape_Cube.SM_Shape_Cube
+[2025.07.29-00.21.38:949][324]LogTexture: Display: Building textures: /Game/SlashHitVFX/__GenericSource/Texture/T_Vfx_Ground_Cave.T_Vfx_Ground_Cave (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2025.07.29-00.21.38:961][324]LogTexture: Display: Building textures: /Game/SlashHitVFX/__GenericSource/NE/NE_decal_bottom.NE_decal_bottom:Texture2D_0 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2025.07.29-00.21.39:345][341]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.07.29-00.21.57:721][251]LogNiagara: Compiling System NiagaraSystem /Game/SlashHitVFX/__GenericSource/NE/NE_decal_bottom_System.NE_decal_bottom_System took 0.650250 sec (time since issued).
+[2025.07.29-00.21.58:491][284]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/SlashHitVFX/__GenericSource/NE/NE_decal_bottom_System.NE_decal_bottom_System
+[2025.07.29-00.21.58:491][284]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/SlashHitVFX/__GenericSource/NE/NE_decal_bottom_System.NE_decal_bottom_System
+[2025.07.29-00.21.58:491][284]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/SlashHitVFX/__GenericSource/NE/NE_decal_bottom_System.NE_decal_bottom_System as actor: NiagaraActor /Game/Maps/NewMapLevel.NewMapLevel:PersistentLevel.NiagaraActor_0
+[2025.07.29-00.21.58:495][284]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/SlashHitVFX/__GenericSource/NE/NE_decal_bottom_System.NE_decal_bottom_System as actor: NiagaraActor /Game/Maps/NewMapLevel.NewMapLevel:PersistentLevel.NiagaraActor_0
+[2025.07.29-00.21.59:083][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.07.29-00.21.59:099][314]LogEditorActor: Deleted 0 Actors (0.052 secs)
+[2025.07.29-00.21.59:109][314]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/SlashHitVFX/__GenericSource/NE/NE_decal_bottom_System.NE_decal_bottom_System
+[2025.07.29-00.21.59:110][314]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/SlashHitVFX/__GenericSource/NE/NE_decal_bottom_System.NE_decal_bottom_System
+[2025.07.29-00.21.59:111][314]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/SlashHitVFX/__GenericSource/NE/NE_decal_bottom_System.NE_decal_bottom_System as actor: NiagaraActor /Game/Maps/NewMapLevel.NewMapLevel:PersistentLevel.NiagaraActor_2
+[2025.07.29-00.21.59:113][314]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/SlashHitVFX/__GenericSource/NE/NE_decal_bottom_System.NE_decal_bottom_System as actor: NiagaraActor /Game/Maps/NewMapLevel.NewMapLevel:PersistentLevel.NiagaraActor_2
+[2025.07.29-00.22.25:069][664]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/SlashHitVFX/__GenericSource/NE/NE_decal_bottom_System.NE_decal_bottom_System
+[2025.07.29-00.22.25:210][664]LogStreaming: Display: FlushAsyncLoading(1302): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.29-00.22.25:275][664]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2025.07.29-00.22.25:517][664]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2025.07.29-00.22.26:466][686]LogNiagara: Compiling System NiagaraSystem /Game/SlashHitVFX/__GenericSource/NE/NE_decal_bottom_System.NE_decal_bottom_System took 1.329339 sec (time since issued).
+[2025.07.29-00.22.26:634][693]147078_NE_decal_bottom_System_MessageLog: System successfully compiled.
+[2025.07.29-00.22.57:686][168]LogNiagara: Compiling System NiagaraSystem /Game/SlashHitVFX/__GenericSource/NE/NE_decal_bottom_System.NE_decal_bottom_System took 0.001245 sec (time since issued).
+[2025.07.29-00.22.57:855][174]147078_NE_decal_bottom_System_MessageLog: System successfully compiled.
+[2025.07.29-00.23.25:130][482]LogSlate: Window 'NE_decal_bottom_System' being destroyed
+[2025.07.29-00.23.25:156][482]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-00.23.25:156][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-00.23.25:164][482]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-00.23.25:165][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-00.23.25:253][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.07.29-00.23.25:308][484]LogNiagara: Compiling System NiagaraSystem /Game/SlashHitVFX/__GenericSource/NE/NE_decal_bottom_System.NE_decal_bottom_System took 0.165077 sec (time since issued).
+[2025.07.29-00.23.31:623][823]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.29-00.23.31:634][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.29-00.23.31:634][823]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMapLevel
+[2025.07.29-00.23.31:645][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010559s)
+[2025.07.29-00.23.31:645][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMapLevel.NewMapLevel to /Game/Maps/UEDPIE_0_NewMapLevel.NewMapLevel (0.010603s)
+[2025.07.29-00.23.31:678][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.07.29-00.23.31:680][823]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMapLevel
+[2025.07.29-00.23.31:682][823]LogPlayLevel: PIE: World Init took: (0.001892s)
+[2025.07.29-00.23.31:683][823]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.07.29-00.23.31:683][823]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.29-00.23.31:683][823]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.29-00.23.31:683][823]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.29-00.23.31:683][823]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.29-00.23.31:683][823]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.29-00.23.31:683][823]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.29-00.23.31:683][823]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.29-00.23.31:683][823]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.29-00.23.31:683][823]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.29-00.23.31:683][823]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.29-00.23.31:683][823]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.29-00.23.31:686][823]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.29-00.23.31:788][823]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.07.29-00.23.31:789][823]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.29-00.23.31:789][823]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.29-00.23.31:789][823]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.29-00.23.31:789][823]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.07.29-00.23.31:789][823]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.07.29-00.23.31:793][823]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.07.29-00.23.31:793][823]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.07.29-00.23.31:793][823]LogInit: FAudioDevice initialized with ID 15.
+[2025.07.29-00.23.31:793][823]LogAudio: Display: Audio Device (ID: 15) registered with world 'NewMapLevel'.
+[2025.07.29-00.23.31:793][823]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.07.29-00.23.31:797][823]LogLoad: Game class is 'BP_ZZZ_GameMode_C'
+[2025.07.29-00.23.31:804][823]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMapLevel.NewMapLevel up for play (max tick rate 60) at 2025.07.29-09.23.31
+[2025.07.29-00.23.31:805][823]LogWorld: Bringing up level for play took: 0.007264
+[2025.07.29-00.23.31:808][823]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2025.07.29-00.23.31:811][823]LogBlueprintUserMessages: [AC_IdleState] 아이들 상태 진입
+[2025.07.29-00.23.31:813][823]PIE: Server logged in
+[2025.07.29-00.23.31:817][823]PIE: Play in editor total start time 0.184 seconds.
+[2025.07.29-00.23.33:005][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.29-00.23.33:005][887]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMapLevel
+[2025.07.29-00.23.33:005][887]LogWorld: UWorld::CleanupWorld for NewMapLevel, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-00.23.33:007][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-00.23.33:009][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.29-00.23.33:013][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-00.23.33:075][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.29-00.23.33:076][887]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.07.29-00.23.33:076][887]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2025.07.29-00.23.33:078][887]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2025.07.29-00.23.33:086][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.07.29-00.23.33:140][888]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2025.07.29-00.23.34:625][964]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/SlashHitVFX/__GenericSource/NE/NE_decal_bottom_System.NE_decal_bottom_System
+[2025.07.29-00.23.34:625][964]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/SlashHitVFX/__GenericSource/NE/NE_decal_bottom_System.NE_decal_bottom_System
+[2025.07.29-00.23.34:625][964]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/SlashHitVFX/__GenericSource/NE/NE_decal_bottom_System.NE_decal_bottom_System as actor: NiagaraActor /Game/Maps/NewMapLevel.NewMapLevel:PersistentLevel.NiagaraActor_4
+[2025.07.29-00.23.34:626][964]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/SlashHitVFX/__GenericSource/NE/NE_decal_bottom_System.NE_decal_bottom_System as actor: NiagaraActor /Game/Maps/NewMapLevel.NewMapLevel:PersistentLevel.NiagaraActor_4
+[2025.07.29-00.23.35:490][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.07.29-00.23.35:495][ 10]LogEditorActor: Deleted 0 Actors (0.070 secs)
+[2025.07.29-00.23.35:504][ 10]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/SlashHitVFX/__GenericSource/NE/NE_decal_bottom_System.NE_decal_bottom_System
+[2025.07.29-00.23.35:504][ 10]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/SlashHitVFX/__GenericSource/NE/NE_decal_bottom_System.NE_decal_bottom_System
+[2025.07.29-00.23.35:506][ 10]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/SlashHitVFX/__GenericSource/NE/NE_decal_bottom_System.NE_decal_bottom_System as actor: NiagaraActor /Game/Maps/NewMapLevel.NewMapLevel:PersistentLevel.NiagaraActor_5
+[2025.07.29-00.23.35:507][ 10]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/SlashHitVFX/__GenericSource/NE/NE_decal_bottom_System.NE_decal_bottom_System as actor: NiagaraActor /Game/Maps/NewMapLevel.NewMapLevel:PersistentLevel.NiagaraActor_5
+[2025.07.29-00.23.36:457][ 60]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.29-00.23.36:474][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.29-00.23.36:474][ 60]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMapLevel
+[2025.07.29-00.23.36:484][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010260s)
+[2025.07.29-00.23.36:484][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMapLevel.NewMapLevel to /Game/Maps/UEDPIE_0_NewMapLevel.NewMapLevel (0.010304s)
+[2025.07.29-00.23.36:524][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.07.29-00.23.36:527][ 60]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMapLevel
+[2025.07.29-00.23.36:529][ 60]LogPlayLevel: PIE: World Init took: (0.001893s)
+[2025.07.29-00.23.36:530][ 60]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.07.29-00.23.36:530][ 60]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.29-00.23.36:530][ 60]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.29-00.23.36:530][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.29-00.23.36:530][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.29-00.23.36:530][ 60]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.29-00.23.36:530][ 60]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.29-00.23.36:530][ 60]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.29-00.23.36:530][ 60]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.29-00.23.36:530][ 60]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.29-00.23.36:530][ 60]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.29-00.23.36:530][ 60]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.29-00.23.36:533][ 60]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.29-00.23.36:642][ 60]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.07.29-00.23.36:642][ 60]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.29-00.23.36:642][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.29-00.23.36:642][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.29-00.23.36:643][ 60]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.07.29-00.23.36:643][ 60]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.07.29-00.23.36:646][ 60]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.07.29-00.23.36:646][ 60]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.07.29-00.23.36:646][ 60]LogInit: FAudioDevice initialized with ID 16.
+[2025.07.29-00.23.36:646][ 60]LogAudio: Display: Audio Device (ID: 16) registered with world 'NewMapLevel'.
+[2025.07.29-00.23.36:646][ 60]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.07.29-00.23.36:651][ 60]LogLoad: Game class is 'BP_ZZZ_GameMode_C'
+[2025.07.29-00.23.36:658][ 60]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMapLevel.NewMapLevel up for play (max tick rate 60) at 2025.07.29-09.23.36
+[2025.07.29-00.23.36:659][ 60]LogWorld: Bringing up level for play took: 0.007764
+[2025.07.29-00.23.36:661][ 60]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2025.07.29-00.23.36:666][ 60]LogBlueprintUserMessages: [AC_IdleState] 아이들 상태 진입
+[2025.07.29-00.23.36:667][ 60]PIE: Server logged in
+[2025.07.29-00.23.36:670][ 60]PIE: Play in editor total start time 0.197 seconds.
+[2025.07.29-00.23.39:765][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.29-00.23.39:765][236]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMapLevel
+[2025.07.29-00.23.39:765][236]LogWorld: UWorld::CleanupWorld for NewMapLevel, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-00.23.39:767][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-00.23.39:768][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.29-00.23.39:773][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-00.23.39:806][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.29-00.23.39:806][236]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.07.29-00.23.39:806][236]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2025.07.29-00.23.39:809][236]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2025.07.29-00.23.39:833][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.07.29-00.23.39:890][237]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2025.07.29-00.23.43:348][435]LogShaderCompilers: Display: ================================================
+[2025.07.29-00.23.43:348][435]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.29-00.23.43:348][435]LogShaderCompilers: Display: Total job queries 784, among them cache hits 305 (38.90%), DDC hits 359 (45.79%), Duplicates 66 (8.42%)
+[2025.07.29-00.23.43:348][435]LogShaderCompilers: Display: Tracking 413 distinct input hashes that result in 297 distinct outputs (71.91%)
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: RAM used: 3.84 MiB of 1.60 GiB budget. Usage: 0.23%
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: Shaders Compiled: 54
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: Jobs assigned 54, completed 54 (100%)
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: Average time worker was idle: 501.79 s
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.22 s
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: Job execution time: average 0.55 s, max 1.02 s
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: Job life time (pending + execution): average 0.62 s, max 1.21
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: Shader code size: total 723.941 KiB, numShaders 54, average 13.406 KiB, min 1.857 KiB, max 64.323 KiB
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.18 s
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.10%
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: Jobs were issued in 43 batches (only local compilation was used), average 1.26 jobs/batch
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: Average processing rate: 7.52 jobs/sec
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: Total thread time: 15.997 s
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: Total thread preprocess time: 11.187 s
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: Percentage time preprocessing: 69.93%
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: Effective parallelization: 2.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 11 - 0.202557
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 0.51 sec, max 0.68 sec, min 0.37 sec)
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.45 sec, max 0.61 sec, min 0.32 sec)
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display:                                            FDistortionMeshPS (compiled    2 times, average 0.43 sec, max 0.47 sec, min 0.39 sec)
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display:                                               FNiagaraShader - 37.55% of total time (compiled   31 times, average 0.19 sec, max 0.91 sec, min 0.06 sec)
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.47% of total time (compiled    8 times, average 0.51 sec, max 0.68 sec, min 0.37 sec)
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.19% of total time (compiled    4 times, average 0.45 sec, max 0.61 sec, min 0.32 sec)
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.76% of total time (compiled    5 times, average 0.34 sec, max 0.43 sec, min 0.30 sec)
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display:                                            FDistortionMeshPS - 5.34% of total time (compiled    2 times, average 0.43 sec, max 0.47 sec, min 0.39 sec)
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: === Material stats ===
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: Materials Translated:    215
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: Material Translation Only: 0.06 s (31%)
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: Material Cache Hits: 35 (16%)
+[2025.07.29-00.23.43:349][435]LogShaderCompilers: Display: ================================================
+[2025.07.29-00.24.14:217][273]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.29-00.24.14:227][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.29-00.24.14:254][273]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMapLevel
+[2025.07.29-00.24.14:266][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011504s)
+[2025.07.29-00.24.14:266][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMapLevel.NewMapLevel to /Game/Maps/UEDPIE_0_NewMapLevel.NewMapLevel (0.011564s)
+[2025.07.29-00.24.14:309][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.07.29-00.24.14:312][273]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMapLevel
+[2025.07.29-00.24.14:315][273]LogPlayLevel: PIE: World Init took: (0.002118s)
+[2025.07.29-00.24.14:316][273]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.07.29-00.24.14:316][273]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.29-00.24.14:316][273]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.29-00.24.14:316][273]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.29-00.24.14:316][273]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.29-00.24.14:316][273]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.29-00.24.14:316][273]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.29-00.24.14:316][273]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.29-00.24.14:316][273]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.29-00.24.14:316][273]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.29-00.24.14:316][273]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.29-00.24.14:316][273]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.29-00.24.14:319][273]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.29-00.24.14:426][273]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.07.29-00.24.14:426][273]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.29-00.24.14:426][273]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.29-00.24.14:426][273]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.29-00.24.14:427][273]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.07.29-00.24.14:427][273]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.07.29-00.24.14:430][273]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.07.29-00.24.14:430][273]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.07.29-00.24.14:430][273]LogInit: FAudioDevice initialized with ID 17.
+[2025.07.29-00.24.14:430][273]LogAudio: Display: Audio Device (ID: 17) registered with world 'NewMapLevel'.
+[2025.07.29-00.24.14:430][273]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.07.29-00.24.14:435][273]LogLoad: Game class is 'BP_ZZZ_GameMode_C'
+[2025.07.29-00.24.14:442][273]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMapLevel.NewMapLevel up for play (max tick rate 60) at 2025.07.29-09.24.14
+[2025.07.29-00.24.14:443][273]LogWorld: Bringing up level for play took: 0.007412
+[2025.07.29-00.24.14:446][273]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2025.07.29-00.24.14:450][273]LogBlueprintUserMessages: [AC_IdleState] 아이들 상태 진입
+[2025.07.29-00.24.14:451][273]PIE: Server logged in
+[2025.07.29-00.24.14:454][273]PIE: Play in editor total start time 0.228 seconds.
+[2025.07.29-00.24.17:825][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.29-00.24.17:825][466]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMapLevel
+[2025.07.29-00.24.17:825][466]LogWorld: UWorld::CleanupWorld for NewMapLevel, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-00.24.17:828][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-00.24.17:829][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.29-00.24.17:834][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-00.24.17:861][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.29-00.24.17:862][466]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.07.29-00.24.17:862][466]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2025.07.29-00.24.17:865][466]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2025.07.29-00.24.17:889][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.07.29-00.24.17:945][467]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2025.07.29-00.25.16:807][730]LogStreaming: Display: FlushAsyncLoading(1310): 1 QueuedPackages, 0 AsyncPackages
